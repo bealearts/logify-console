@@ -1,19 +1,19 @@
 {
-  "name": "logify-console",
+  "name": "simple-logging-console",
   "version": "1.0.0",
   "main": "lib/index.js",
   "description": "console.log() etc replacement with timestamp, loglevel and module output",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bealearts/logify-console.git"
+    "url": "https://github.com/bealearts/simple-logging-console.git"
   },
   "bugs": {
-    "url": "https://github.com/bealearts/logify-console/issues"
+    "url": "https://github.com/bealearts/simple-logging-console/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/bealearts/logify-console/blob/master/LICENSE"
+      "url": "https://github.com/bealearts/simple-logging-console/blob/master/LICENSE"
     }
   ],
   "author": {
