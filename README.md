@@ -1,6 +1,6 @@
 # logify-console
 
-Trade visualisation to show trade price over time
+console.log() etc replacement with timestamp, loglevel and module output
 
 
 ## Installation
