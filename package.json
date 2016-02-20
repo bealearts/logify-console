@@ -1,6 +1,6 @@
 {
   "name": "logify-console",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "description": "console.log() etc replacement with timestamp, loglevel and module output",
   "author": {
