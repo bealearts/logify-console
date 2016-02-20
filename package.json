@@ -1,0 +1,17 @@
+{
+  "name": "logify-console",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "description": "console.log() etc replacement with timestamp, loglevel and module output",
+  "author": {
+    "name": "David Beale",
+    "url": "http://bealearts.co.uk/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+    "console-browserify": "^1.1.0"
+  },
+}
