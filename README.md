@@ -1,4 +1,4 @@
-# logify-console
+# logify-console [![Build Status](https://travis-ci.org/bealearts/logify-console.svg)](https://travis-ci.org/bealearts/logify-console) [![npm version](https://badge.fury.io/js/widgelogify-consoletize.svg)](http://badge.fury.io/js/logify-console)
 
 console.log() etc replacement with timestamp, loglevel and module output
 
