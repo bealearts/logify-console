@@ -3,10 +3,9 @@ node_js:
 - '0.12'
 deploy:
   provider: npm
-  email: david.beale@bealearts.co.uk
   api_key:
-    secure: kOkPruNaipAoPdoojPiRjaJ7iRYbWaYrvlJ1ZWtICFxX7JuwINZQzN5EKjeOdRLjh05WRocy2KwTXZ5TvPjNx6KTBe6p2Ut/NnDmW3XdklyrSSSEJ95c+G6XpcNNItNrnEmI4PHLa5lfIrEL1PuP0NLegksd+9ElgUpTDuxsaeY=
+    secure: oScAIS0eWc4+0FRfizZDETrmkudyC2NaDXKD7fmmzvMkKpY1629Hn1CMjKyeisTIW64nz9nUKn4BiIdTaI4MmYHRHsLe2bQ1DkemEzDANKHRF05zmYCdAOqb62w0fhI2Qt6Qx/W/kZRBP+8b84ZKClULukBstI1Mrdb2lznk+mAz2sooL3BbE36eh7Y6PUN5PylOdFFbMk5s+LKVHp0pur6MsVrDur7hnwDJ6mf6G3rnju36tJ6rpZ2Am+wH17pZhv3NWcuyE3ux6Y7nEnx22nd9azvn4Uw6HXTM6dDoJ0DX6KqueLnlWbt9hN3AEoYiotM3KgLtnYvsrMYUBdcphrZTEzxgaacQxS7AM6nfOqO5hjzuaqxXzuLFhQUyao4ovAi/yJ1tCMECHqu38Z1ue18E2fx8QG2DsMYpWyGkfRO4KagVphnvcb71ws0QjOpsoQ0ww0+edwOZPOhmTcu5Usn/x1nbWHRJCD2vIOkXTeibYH8ZcP820rvMqj+M9GDlA2aZpvcJcoGLtNDP3m2ar7zbxsMzOeXWHZJk6pc5P3Uj0RWF3OP4eXgscqDOJP736IQy0mdiXABm6OWOoLNfic+rcUOFjCh5mQUUxn4BadvO0VzCvpaVGVCysdJ88g1Dn7Z57bsdPmJ6BmRvvUo2pkJ0DmvpRUkWJq7ybE5cKwU=
   on:
     all_branches: true
     tags: true
-    repo: bealearts/logify-console
+    repo: bealearts/simple-logging-console
